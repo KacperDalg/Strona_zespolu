@@ -1,0 +1,25 @@
+.gallery {
+    height: 1000px;
+    width: 1400px;
+    border: 2px solid red;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: space-around;
+}
+
+.gallery div {
+    height: 300px;
+    width: 400px;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.gallery div img {
+    object-fit: cover;
+    height: 300px;
+    width: 400px;
+}

@@ -1,0 +1,13 @@
+.form {
+    color: white;
+    padding: 20px 200px 20px 200px;
+}
+
+.form h2 {
+    margin: 10px 0 10px 0;
+    font-size: 24px;
+}
+
+.form p {
+    font-size: 18px;
+}

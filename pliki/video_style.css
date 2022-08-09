@@ -1,0 +1,23 @@
+main a {
+    text-decoration: none;
+    color: red;
+    transition: .2s;
+}
+
+main a:hover {
+    color: orange;
+}
+
+main h2 {
+    margin-top: 20px;
+}
+
+main video {
+    margin: 20px;
+    height: 480px;
+    width: 640px;
+}
+
+section {
+    text-align: center;
+}
